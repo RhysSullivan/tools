@@ -1,2 +1,7 @@
+# Dependencies
+node_modules/
 .vercel
-node_modules
+dist
+.xmcp
+xmcp-env.d.ts
+.env
